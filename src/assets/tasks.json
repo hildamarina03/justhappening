@@ -1,0 +1,38 @@
+[
+       {"id":"1", 
+       	"name":"Study Angular2",
+        "date": "2016, 12, 20",
+        "priority": "imp",
+        "highlight": "yellow"
+       },
+
+	     {"id":"2", 
+        "name":"Study Java",
+        "date": "2016, 12, 27",
+        "priority": "none",
+        "highlight": "yellow"
+       },
+
+       {"id":"3", 
+        "name":"Chech Code Acadeny Videos",
+        "date": "2016, 12, 15",
+        "priority": "imp",
+        "highlight": "none"
+       },
+
+       {"id":"4", 
+        "name":"Buy New Video Games",
+        "date": "2016, 12, 22",
+        "priority": "none",
+        "highlight": "blue"
+       },
+
+       {"id":"5", 
+        "name":"Travel to Paris",
+        "date": "2016, 12, 11",
+        "priority": "imp",
+        "highlight": "blue"
+
+       }
+
+	]

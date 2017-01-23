@@ -1,0 +1,16 @@
+p{
+    text-align: justify;
+}
+
+aside div{
+    text-align: center;
+    width: 100%;
+    font-size: medium;
+    margin: -1px 10px;
+    height: 50px;
+    border: 1px dashed black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+

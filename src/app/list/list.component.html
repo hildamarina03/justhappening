@@ -1,0 +1,16 @@
+<ul id="tasks" *ngIf=true >
+  <li *ngFor="let task of tasks" [ngClass]="[task.highlight, task.priority]">
+    <span class="id">{{task.id}}</span>
+    <span class="task-name">{{task.name}}</span>
+    <span class="task-date">{{task.date}}</span>
+  </li>
+  <!--<li [ngClass] = "{'imp': true, 'yellow':true}">-->
+    <!--{{tasks[0].name}}-->
+  <!--</li>-->
+  <!--<li [ngClass] = "[tasks[1].highlight, tasks[1].priority]">-->
+    <!--{{tasks[1].name}}-->
+  <!--</li>-->
+
+  <!--<p>id: {{id}}</p>-->
+  <p [ngStyle]="{'font-size':'18px', 'color': 'red'}">id: {{id}}</p>
+</ul>

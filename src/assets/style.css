@@ -1,0 +1,159 @@
+/*@import url('https://fonts.googleapis.com/css?family=Lato');*/
+
+/**{*/
+  /*margin:0;*/
+  /*padding:0;*/
+  /*box-sizing: border-box;*/
+/*}*/
+
+/*body{*/
+  /*background: #eee;*/
+  /*padding: 15px 5px;*/
+  /*font-family: 'Lato', sans-serif;*/
+  /*font-size: 18px;*/
+  /*color: #333;*/
+/*}*/
+
+/*header{*/
+  /*text-align: center;*/
+  /*margin-bottom: 30px*/
+/*}*/
+
+/*h1{*/
+  /*margin: 10px 0;*/
+/*}*/
+
+
+/*nav{*/
+  /*width: 100%; */
+  /*margin: 0 auto;*/
+/*}*/
+
+/*nav ul{*/
+  /*background: #ff5252;*/
+  /*display: flex;*/
+  /*box-shadow: 0 1px 3px 0 rgba(0,0,0,0.2),0 1px 1px 0 rgba(0,0,0,0.14),0 2px 1px -1px rgba(0,0,0,0.12);*/
+  /*border-radius: 2px;*/
+  /**/
+/*}*/
+
+/*nav li{*/
+  /*flex-basis: 0;*/
+  /*flex-grow: 1;*/
+  /*list-style-type: none;*/
+/*}*/
+
+/*nav a{*/
+  /*text-align: center;*/
+  /*padding: 18px 0;*/
+  /*color: #fff;*/
+  /*display: block;*/
+  /*text-decoration: none;*/
+/*}*/
+
+/*nav a:hover{*/
+  /*background-color: #e86b6b;*/
+  /*text-decoration: underline;*/
+/*}*/
+
+
+/*main{*/
+  /*background: #fff;*/
+  /**/
+  /*box-shadow: 0 1px 3px 0 rgba(0,0,0,0.2),0 1px 1px 0 rgba(0,0,0,0.14),0 2px 1px -1px rgba(0,0,0,0.12);*/
+  /*border-radius: 2px;*/
+  /*width: 100%;*/
+  /*margin: 0 auto*/
+/*}*/
+
+/*#filter{*/
+  /*padding: 12px;*/
+  /*background: #e7e7e7;*/
+  /*border-radius: 2px;*/
+  /*line-height: 30px*/
+/*}*/
+
+/*#filter input{*/
+  /*padding: 10px;*/
+  /*width: 30%;*/
+  /*border: 1px solid #ddd;*/
+  /*border-radius: 2px;*/
+  /*float: right;*/
+/*}*/
+
+/*#filter:after{*/
+  /*content: "";*/
+  /*display: block;*/
+  /*clear: both;*/
+/*}*/
+
+/*#tasks{*/
+  /*list-style: none*/
+/*}*/
+
+/*#tasks li{*/
+  /*padding: 20px ;*/
+  /*border-bottom: 1px solid #e4e4e4;*/
+/*}*/
+
+/*.task span.id{*/
+  /*display: inline-block;*/
+  /*width: 5%;*/
+/*}*/
+
+/*.task span.task-name{  */
+  /*width: 65%; */
+  /*display: inline-block;*/
+/*}*/
+/*.task span.task-date{  */
+  /*width: 30%; */
+  /*display: inline-block;*/
+/*}*/
+
+
+/*#add-task{*/
+  /*margin-top: 30px;*/
+  /*background: #eee;*/
+  /*padding: 10px;*/
+  /*border-radius: 2px;*/
+/*}*/
+
+/*#add-task input{*/
+  /*display: inline-block;*/
+  /*padding: 10px;*/
+  /*border-radius: 2px;*/
+  /*border: 1px solid #ddd;*/
+  /*width: 240px;*/
+/*}*/
+
+/*#add-task button{*/
+  /*background: #ff5252;*/
+  /*color: #eee;*/
+  /*padding: 8px 10px;*/
+  /*border: 0;*/
+  /*border-radius: 2px;*/
+
+  /*float: right;*/
+/*}*/
+
+/*.imp{*/
+  /*color:#065798;*/
+/*}*/
+/*.yellow{*/
+  /*background-color: rgba(239, 235, 56, 0.64);*/
+/*}*/
+/*.blue{*/
+  /*background-color: rgba(124, 204, 229, 0.65);*/
+/*}*/
+/*.remove{*/
+  /**/
+/*}*/
+
+
+/*@media (min-width:700px)  {*/
+
+  /*body{*/
+    /*padding: 50px 100px;    */
+  /*}*/
+  /**/
+/*}*/
